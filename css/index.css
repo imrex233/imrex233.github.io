@@ -5167,8 +5167,9 @@ blockquote.pullquote.right {
   position: relative;
   margin: 0 0 1rem;
   padding: 15px;
-  border: 1px solid #eee;
-  border-left-width: 5px;
+  border: initial;
+  border-left: 5px solid #eee;
+  background-color: #f9f9f9;
   border-radius: 3px;
 }
 .note h2,
@@ -5209,6 +5210,7 @@ blockquote.pullquote.right {
   font-size: larger;
 }
 .note.default {
+  background: #f7f7f7;
   border-left-color: #777;
 }
 .note.default h2,
@@ -5223,6 +5225,7 @@ blockquote.pullquote.right {
   color: #777;
 }
 .note.primary {
+  background: #f5f0fa;
   border-left-color: #6f42c1;
 }
 .note.primary h2,
@@ -5237,6 +5240,7 @@ blockquote.pullquote.right {
   color: #6f42c1;
 }
 .note.info {
+  background: #eef7fa;
   border-left-color: #428bca;
 }
 .note.info h2,
@@ -5251,6 +5255,7 @@ blockquote.pullquote.right {
   color: #428bca;
 }
 .note.success {
+  background: #eff8f0;
   border-left-color: #5cb85c;
 }
 .note.success h2,
@@ -5265,6 +5270,7 @@ blockquote.pullquote.right {
   color: #5cb85c;
 }
 .note.warning {
+  background: #fdf8ea;
   border-left-color: #f0ad4e;
 }
 .note.warning h2,
@@ -5279,6 +5285,7 @@ blockquote.pullquote.right {
   color: #f0ad4e;
 }
 .note.danger {
+  background: #fcf1f2;
   border-left-color: #d9534f;
 }
 .note.danger h2,
@@ -5685,6 +5692,10 @@ blockquote.pullquote.right {
 }
 [data-theme='dark'] #error-wrap .error-content .error-info a {
   background: #2c2c2c;
+}
+[data-theme='dark'] .note {
+  filter: brightness(0.7);
+  color: #4c4948;
 }
 [data-theme='dark'] .hide-button,
 [data-theme='dark'] .btn-beautify {
