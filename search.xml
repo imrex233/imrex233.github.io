@@ -4,52 +4,6 @@
   
     
     <entry>
-      <title>hello</title>
-      <link href="/post/3610a686.html"/>
-      <url>/post/3610a686.html</url>
-      
-        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hello, this essay needs password.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="4f6306e21a82ca5bd051395c7837e8075335a767ae475bf6969b08d5aef44fc9">0645f3a6727e4f460b6d99041b156113</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> uncategorized </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Test</title>
-      <link href="/post/784dd132.html"/>
-      <url>/post/784dd132.html</url>
-      
-        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Hello, this essay needs password.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="4f6306e21a82ca5bd051395c7837e8075335a767ae475bf6969b08d5aef44fc9">0645f3a6727e4f460b6d99041b156113</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> hello </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Yes </tag>
-            
-            <tag> No </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/post/4a17b156.html"/>
       <url>/post/4a17b156.html</url>
