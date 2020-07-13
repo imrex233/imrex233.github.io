@@ -4,19 +4,29 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/post/4a17b156.html"/>
-      <url>/post/4a17b156.html</url>
+      <title>董小北的博客杂谈</title>
+      <link href="/post/b1783ddb.html"/>
+      <url>/post/b1783ddb.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="我的博客之路"><a href="#我的博客之路" class="headerlink" title="我的博客之路"></a>我的博客之路</h2><p>关于博客的具体教程相信我不必多说了，小伙伴们在网上都可以找到许多的介绍和教程，也有很多大神写了关于Hexo部署和主题的博客。不过作为折腾博客很久，尝试过wordpress、Hexo、Hugo等等技术平台，但是始终没有静下心来好好写作的人来说，我其实挺想聊聊我关于博客写作的看法。</p><p>最早开始折腾博客的人可能是想有一个安静的地方让自己专注地写点东西，又或者是看到了很多大神的博客受了刺激，暗自决定自己也要做出一样牛逼的博客。想法虽好，但是在折腾的过程中，有的人受不了过程的繁琐和随时可能出现的bug退出了，有的人在技术里面折腾来折腾去忘了自己最初希望写点东西的初心（比如说我），又或者在平台的选择中举棋不定。技术虽好，但真正牛逼的不是折腾的博客有多炫酷，RGB色彩多浓烈，而且笔尖流淌出的深邃思想，这是文章和博客的灵魂，也是牛B人的牛逼之处。</p><p>所以，如果你在博客平台选择和折腾中犹犹豫豫，作为一个折腾的过来人，我有一个建议与你共勉：放弃对炫酷技术的追求，静下心了沉淀自己的思想，将博客作为你自己输出和成长的地方。这个地方无关多少访问量和阅读量，只是你在喧嚣世界中属于自己的一篇净土。</p><h2 id="写点什么"><a href="#写点什么" class="headerlink" title="写点什么"></a>写点什么</h2><p>如同我上面说的，写博客对于我来说更多是作为个人沉淀思想，分享想法的方式，所以在我的博客中，会持续地分享我关于生活、工作和对世界的看法，不管这些想法在你们看来是成熟是幼稚，文笔是垃圾还是老练，我都无所谓了（当然如果有朋友能够对我写的内容提建议和点评，我还是非常欢迎的）。</p><p>目前规划中，我会将博客内容主要分为这么几个部分：</p><ul><li>关于生活的记录和想法，包括我自己生活中遇见的有趣亦或是烦恼的事情；</li><li>关于工作和行业的研究，包括我创业的经历我也会在之后的内容中整理出来，同时也会包含我对于目前工作的行业的一些想法，当然涉及到一些行业机密的内容不会在文章中体现出来。也会有我在工作中的思考和对于一些其他行业的看法；</li><li>关于我的投资的记录，我始终认为投资是一辈子的事情，所以投资的意识和经验要越早开始培养越好，在二十多岁的时候交一些学费，总会比三四十岁悔恨没有及时投资又或者是被坑了要好很多；</li><li>其他的关于一些个人想法的内容，可能是我对世界的看法，也可能是我读过的某一本书，这一方面可能就有一些意识流了。</li></ul><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>最开始这篇博文想要写一下我捣鼓博客的过程，顺便给看到文章的朋友们出一点教程，但是最后有点写成了自己的博客开篇词。开篇就开篇吧，总要有一点东西作为开始的。网络信息无比繁杂，假如有缘光临看到这篇博文，希望留下一句评论，就当是给我未来写作的一些动力吧。</p><p>最后留下一句话：To the time to life, rather than to life in time .</p><p>以上。</p><p>Rex </p>]]></content>
       
       
       <categories>
           
-          <category> uncategorized </category>
+          <category> 杂谈 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
       
     </entry>
     
